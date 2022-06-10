@@ -11,16 +11,16 @@ def app():
     st.header("Visualization")
 
     st.subheader("distributon of words for Amharic")
-    st.image('data/amh distribution.png')
+    st.image('data/amh_distribution.png')
 
     st.subheader("distributon of words for Swahili")
-    st.image('data/swahili distribution.png')
+    st.image('data/swahili_distribution.png')
 
     st.subheader("Data Augmentaion")
-    st.image('data/data augmentation.png')
+    st.image('data/data_augmentation.png')
     
     st.subheader("Feature Extraction")
-    st.image('data/feat extraction.png')
+    st.image('data/feat_extraction.png')
 
     st.subheader("spectogram")
     st.image('data/spectogram.png')
