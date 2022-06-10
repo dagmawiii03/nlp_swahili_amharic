@@ -2,7 +2,7 @@ import os
 import sys
 import streamlit as st
 
-sys.path.insert(0, 'dashboardd')
+sys.path.insert(0, 'dashboard')
 from applications import exploration
 from multiapp import MultiApp
 
